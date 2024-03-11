@@ -1,5 +1,4 @@
 const base_url = "http://localhost:3030";
-//const base_url = import.meta.env.VITE_API_URL;
 
 export const register = async (
   email,
